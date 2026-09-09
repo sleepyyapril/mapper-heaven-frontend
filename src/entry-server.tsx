@@ -6,7 +6,7 @@ export default createHandler(() => (
       <html lang="en">
         <head>
           <meta charset="utf-8" />
-          <meta name="description" content="SolidStart with-auth example" />
+          <meta name="description" content="mapping heaven" />
           <meta name="viewport" content="width=device-width, initial-scale=1" />
           <link rel="icon" type="image/svg" href="favicon.svg" />
           {assets}
